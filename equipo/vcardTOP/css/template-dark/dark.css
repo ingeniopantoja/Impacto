@@ -25,15 +25,15 @@ body {
 }
 
 .border-line-v:before {
-	background: -moz-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at top, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at top, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .border-line-h:after {
-	background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 h1,
@@ -46,9 +46,9 @@ h6 {
 }
 
 .lnks:before {
-	background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .lnk,
@@ -58,9 +58,9 @@ h6 {
 
 .lnk:before,
 .button:before {
-	background: -moz-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at top, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at top, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .lnk .arrow:before,
@@ -120,7 +120,7 @@ textarea:focus:-ms-input-placeholder {
 
 .header .top-menu ul li a, .header .menu-btn {
 	color: rgba(255, 255, 255, 0.85);
-	background: #101010;
+	background: #31313a;
 }
 
 .header .menu-btn span, .header .menu-btn span:before, .header .menu-btn span:after {
@@ -128,9 +128,9 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .header .top-menu ul li a:before {
-	background: -moz-radial-gradient(right, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(right, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at right, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(right, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(right, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at right, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .header .top-menu ul li a .icon {
@@ -143,35 +143,35 @@ textarea:focus:-ms-input-placeholder {
 	}
 
 	.header .top-menu ul li a:before {
-		background: -moz-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-		background: -webkit-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-		background: radial-gradient(ellipse at top, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+		background: -moz-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+		background: -webkit-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+		background: radial-gradient(ellipse at top, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 	}
 }
 
 @media (max-width: 1240px) {
 .header {
-	background: #101010;
+	background: #31313a;
 }
 }
 
 .card-started:after {
-	background: #101010;
+	background: #31313a;
 	opacity: 0.3;
 }
 
 .card-started .profile {
-	background: #101010;
+	background: #31313a;
 }
 
 .card-started .profile .slide:before,
 .card-started .profile .slide:after {
-	background: #101010;
+	background: #31313a;
 }
 
 .card-started .profile .image img {
-	border-color: #101010;
-	background-color: #101010;
+	border-color: #31313a;
+	background-color: #31313a;
 }
 
 .card-started .profile .title {
@@ -185,12 +185,12 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .card-inner {
-	background: #101010;
+	background: #31313a;
 }
 
 .card-inner:before,
 .card-inner:after {
-	background: #101010;
+	background: #31313a;
 }
 
 .content .title {
@@ -198,9 +198,9 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .content .title:after {
-	background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .info-list ul li strong {
@@ -208,9 +208,9 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .service-items.border-line-v:after {
-	background: -moz-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at top, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at top, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .service-items .service-item .name {
@@ -219,9 +219,9 @@ textarea:focus:-ms-input-placeholder {
 
 @media (max-width: 560px) {
 	.service-items .col:after {
-		background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-		background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-		background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+		background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+		background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+		background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 	}
 
 }
@@ -290,7 +290,7 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .skills-list.circles .progress:after {
-	background-color: #101010;
+	background-color: #31313a;
 }
 
 .content.works .filter-menu .f_btn {
@@ -298,9 +298,9 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .content.works .grid-items.border-line-v:after {
-	background: -moz-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at top, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at top, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .box-item .desc .name {
@@ -312,7 +312,7 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .mfp-wrap.popup-box-inline {
-	background: #101010;
+	background: #31313a;
 }
 
 .post-box .blog-detail {
@@ -329,9 +329,9 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .post-box .post-comments li:before {
-	background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .post-box .post-comments li .comment-info .name {
@@ -347,9 +347,9 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .background.gradient {
-	background: #000 !important;
-	background: -webkit-linear-gradient(top left, #000 0%, #000 100%) !important;
-	background: linear-gradient(to bottom right, #000 0%, #000 100%) !important;
+	background: #17171b !important;
+	background: -webkit-linear-gradient(top left, #17171b 0%, #28282f 100%) !important;
+	background: linear-gradient(to bottom right, #17171b 0%, #28282f 100%) !important;
 }
 
 .bg-bubbles li {
@@ -365,25 +365,25 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .info-list ul li strong:after {
-	background: #101010;
+	background: #31313a;
 }
 
 .content.blog .border-line-v:after {
-	background: -moz-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(top, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at top, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(top, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at top, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .post-comments .post-comment:before {
-	background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .info-list ul li:before {
-	background: -moz-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at center, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .pager .nav-links {
@@ -395,7 +395,7 @@ input, textarea, button, input[type="submit"] {
 }
 
 .content-sidebar {
-	background: #101010;
+	background: #31313a;
 }
 
 .content-sidebar .close {
@@ -491,9 +491,9 @@ input, textarea, button, input[type="submit"] {
 }
 
 .content-sidebar .main-menu ul li:after, .content-sidebar .main-menu ul li:first-child::before {
-	background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
 .button {
@@ -506,7 +506,7 @@ input, textarea, button, input[type="submit"] {
 }
 
 .profile .main-menu-fixed:before {
-	background: #101010;
+	background: #31313a;
 }
 
 .profile .main-menu ul li a {
@@ -534,12 +534,12 @@ input[type="submit"]:hover {
 
 @media (max-width: 680px) {
 .header .top-menu:before {
-	background: -moz-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: -webkit-radial-gradient(left, ellipse cover, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
-	background: radial-gradient(ellipse at left, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -moz-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: -webkit-radial-gradient(left, ellipse cover, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+	background: radial-gradient(ellipse at left, rgba(197, 202, 213, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 .header .top-menu ul.menu {
-	background: #101010;
+	background: #31313a;
 }
 }
 

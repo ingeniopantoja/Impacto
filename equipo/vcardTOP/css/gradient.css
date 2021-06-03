@@ -17,8 +17,8 @@
 
 .background.gradient {
   background: #50a3a2;
-  background: -webkit-linear-gradient(top left, #50a3a2 0%, #14bfb5 100%);
-  background: linear-gradient(to bottom right, #50a3a2 0%, #14bfb5 100%);
+  background: -webkit-linear-gradient(top left, #50a3a2 0%, #78cc6d 100%);
+  background: linear-gradient(to bottom right, #50a3a2 0%, #78cc6d 100%);
   position: fixed;
   overflow: hidden;
   top: 0;
@@ -41,7 +41,7 @@
   display: block;
   width: 80px;
   height: 80px;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.1);
   bottom: -320px;
   -webkit-animation: square 50s infinite;
   animation: square 50s infinite;

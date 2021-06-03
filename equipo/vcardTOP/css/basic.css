@@ -31,7 +31,7 @@ body {
 	border: none;
 	font-family: 'Poppins';
 	font-size: 14px;
-	color: #000;
+	color: #626262;
 	background: #d8dbe2;
 	letter-spacing: 0em;
 	font-weight: 400;
@@ -143,7 +143,7 @@ body {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-color: rgba(20, 191, 181, 0.4);
+	background-color: rgba(120, 204, 109, 0.4);
 }
 
 
@@ -380,7 +380,7 @@ body {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: #14bfb5;
+	background: #78cc6d;
 	opacity: 1;
 	-webkit-animation: sk-bounce 2s infinite ease-in-out;
 	animation: sk-bounce 2s infinite ease-in-out;
@@ -564,19 +564,19 @@ strong {
 
 .lnk:hover,
 .button:hover {
-	color: #14bfb5;
+	color: #78cc6d;
 }
 
 .lnk:hover .ion,
 .button:hover .ion {
-	color: #14bfb5;
+	color: #78cc6d;
 }
 
 .lnk:hover .arrow:before,
 .button:hover .arrow:before,
 .lnk:hover .arrow:after,
 .button:hover .arrow:after {
-	background: #14bfb5;
+	background: #78cc6d;
 }
 
 .button {
@@ -594,7 +594,7 @@ a {
 
 a:hover {
 	text-decoration: none;
-	color: #14bfb5;
+	color: #78cc6d;
 }
 
 /* lists */
@@ -692,7 +692,7 @@ input:focus,
 textarea:focus,
 button:focus {
 	color: #171717;
-	border-bottom: 1px solid #14bfb5;
+	border-bottom: 1px solid #78cc6d;
 }
 
 textarea {
@@ -711,7 +711,7 @@ button {
 }
 
 button:hover {
-	border-bottom: 1px solid #14bfb5;
+	border-bottom: 1px solid #78cc6d;
 }
 
 label,
